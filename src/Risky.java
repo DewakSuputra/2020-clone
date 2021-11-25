@@ -1,3 +1,3 @@
-public class risky {
+public class Risky {
     String nama = "risky";
 }
