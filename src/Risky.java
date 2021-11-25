@@ -1,3 +1,3 @@
 public class risky {
-    string nama = "risky";
+    String nama = "risky";
 }
